@@ -38,4 +38,7 @@ To use this project, follow these steps:
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Yash22222/Real-Estate-Price-Prediction-Using-Linear-Regression/blob/main/LICENSE) file for details.
 
+## Suggestion & Improvement
+If you have any suggestions for improving the project or spot any bugs, feel free to open an issue on the GitHub repository. Additionally, if you'd like to contribute directly to the project, you can fork the repository, make your changes, and submit a pull request. Your contributions are greatly appreciated and help make the project better for everyone!
+
 ---
